@@ -30,73 +30,8 @@
     <changefreq>daily</changefreq>
     </url>
     <url>
-    <loc>http://dalnyefz.github.io/article/guide</loc>
-    <lastmod>2021-07-01</lastmod>
-    <changefreq>daily</changefreq>
-    </url>
-    <url>
     <loc>http://dalnyefz.github.io/article/helloworld</loc>
     <lastmod>2025-08-07</lastmod>
-    <changefreq>daily</changefreq>
-    </url>
-    <url>
-    <loc>http://dalnyefz.github.io/article/example-1</loc>
-    <lastmod>2025-01-19</lastmod>
-    <changefreq>daily</changefreq>
-    </url>
-    <url>
-    <loc>http://dalnyefz.github.io/article/example-2</loc>
-    <lastmod>2021-11-04</lastmod>
-    <changefreq>daily</changefreq>
-    </url>
-    <url>
-    <loc>http://dalnyefz.github.io/article/example-3</loc>
-    <lastmod>2021-07-01</lastmod>
-    <changefreq>daily</changefreq>
-    </url>
-    <url>
-    <loc>http://dalnyefz.github.io/article/example-4</loc>
-    <lastmod>2021-07-01</lastmod>
-    <changefreq>daily</changefreq>
-    </url>
-    <url>
-    <loc>http://dalnyefz.github.io/article/example-5</loc>
-    <lastmod>2021-07-01</lastmod>
-    <changefreq>daily</changefreq>
-    </url>
-    <url>
-    <loc>http://dalnyefz.github.io/article/example-6</loc>
-    <lastmod>2021-07-01</lastmod>
-    <changefreq>daily</changefreq>
-    </url>
-    <url>
-    <loc>http://dalnyefz.github.io/article/example-7</loc>
-    <lastmod>2021-07-01</lastmod>
-    <changefreq>daily</changefreq>
-    </url>
-    <url>
-    <loc>http://dalnyefz.github.io/article/example-8</loc>
-    <lastmod>2021-07-01</lastmod>
-    <changefreq>daily</changefreq>
-    </url>
-    <url>
-    <loc>http://dalnyefz.github.io/article/example-9</loc>
-    <lastmod>2025-01-01</lastmod>
-    <changefreq>daily</changefreq>
-    </url>
-    <url>
-    <loc>http://dalnyefz.github.io/article/example-10</loc>
-    <lastmod>2021-07-01</lastmod>
-    <changefreq>daily</changefreq>
-    </url>
-    <url>
-    <loc>http://dalnyefz.github.io/article/2490e2a1-61ca-8162-9f59-fc4f0cd0d872</loc>
-    <lastmod>2021-07-01</lastmod>
-    <changefreq>daily</changefreq>
-    </url>
-    <url>
-    <loc>http://dalnyefz.github.io/article/invisible</loc>
-    <lastmod>2021-11-04</lastmod>
     <changefreq>daily</changefreq>
     </url>
     <url>
@@ -180,7 +115,57 @@
     <changefreq>daily</changefreq>
     </url>
     <url>
-    <loc>http://dalnyefz.github.io/article/data_structure</loc>
+    <loc>http://dalnyefz.github.io/article/data-structure</loc>
+    <lastmod>2025-08-07</lastmod>
+    <changefreq>daily</changefreq>
+    </url>
+    <url>
+    <loc>http://dalnyefz.github.io/article/data-structure/ch0</loc>
+    <lastmod>2025-08-07</lastmod>
+    <changefreq>daily</changefreq>
+    </url>
+    <url>
+    <loc>http://dalnyefz.github.io/article/data-structure/ch1</loc>
+    <lastmod>2025-08-07</lastmod>
+    <changefreq>daily</changefreq>
+    </url>
+    <url>
+    <loc>http://dalnyefz.github.io/article/data-structure/ch2-1</loc>
+    <lastmod>2025-08-07</lastmod>
+    <changefreq>daily</changefreq>
+    </url>
+    <url>
+    <loc>http://dalnyefz.github.io/article/data-structure/ch2-2</loc>
+    <lastmod>2025-08-07</lastmod>
+    <changefreq>daily</changefreq>
+    </url>
+    <url>
+    <loc>http://dalnyefz.github.io/article/data-structure/ch2-3</loc>
+    <lastmod>2025-08-07</lastmod>
+    <changefreq>daily</changefreq>
+    </url>
+    <url>
+    <loc>http://dalnyefz.github.io/article/data-structure/ch3</loc>
+    <lastmod>2025-08-07</lastmod>
+    <changefreq>daily</changefreq>
+    </url>
+    <url>
+    <loc>http://dalnyefz.github.io/article/data-structure/ch4</loc>
+    <lastmod>2025-08-07</lastmod>
+    <changefreq>daily</changefreq>
+    </url>
+    <url>
+    <loc>http://dalnyefz.github.io/article/data-structure/ch5</loc>
+    <lastmod>2025-08-07</lastmod>
+    <changefreq>daily</changefreq>
+    </url>
+    <url>
+    <loc>http://dalnyefz.github.io/article/data-structure/ch6</loc>
+    <lastmod>2025-08-07</lastmod>
+    <changefreq>daily</changefreq>
+    </url>
+    <url>
+    <loc>http://dalnyefz.github.io/article/data-structure/ch7</loc>
     <lastmod>2025-08-07</lastmod>
     <changefreq>daily</changefreq>
     </url>

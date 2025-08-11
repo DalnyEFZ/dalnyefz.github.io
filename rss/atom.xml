@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id/>
     <title>远方的岛</title>
-    <updated>2025-08-11T11:13:36.329Z</updated>
+    <updated>2025-08-11T11:22:10.180Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Dalny_EFZ</name>
@@ -17,7 +17,7 @@
         <id>http://dalnyefz.github.io/article/computer-organization</id>
         <link href="http://dalnyefz.github.io/article/computer-organization"/>
         <updated>2025-08-10T16:00:00.000Z</updated>
-        <content type="html"><![CDATA[<div id="notion-article" class="mx-auto overflow-hidden "><main class="notion light-mode notion-page notion-block-24c0e2a161ca803ba564d017e99651ba"><div class="notion-viewport"></div><div class="notion-collection-page-properties"></div><blockquote class="notion-quote notion-block-24c0e2a161ca8015900bfc29909b625a"><div>2025年春季学期（大二下）</div><div class="notion-text notion-block-24c0e2a161ca80e4b822d5d477a02675">课程代码：22CS22006</div><div class="notion-text notion-block-24c0e2a161ca8010a5d7d3ee38cd328b">授课教师：翁睿</div><div class="notion-text notion-block-24c0e2a161ca80859911cd7dddc116f4">课程性质：必修（考试、408）</div><div class="notion-text notion-block-24c0e2a161ca80f08a8ed5d75f86b1a4">学分：3.0</div><div class="notion-text notion-block-24c0e2a161ca805da1a5e449c80932d5">成绩组成：期末70 + 平时30（实验15 + 小作业10 + 大作业5）</div><div class="notion-text notion-block-24c0e2a161ca80639902e045d7e2cbae">授课：40学时 + 实验：8学时</div></blockquote><div class="notion-text notion-block-24c0e2a161ca802b80a9c54d7f754902"><b><a target="_blank" rel="noopener noreferrer" class="notion-link" href="https://dalnyefz.github.io/article/computer-organization/ch0">§0 应试部分</a></b></div></main></div>]]></content>
+        <content type="html"><![CDATA[<div id="notion-article" class="mx-auto overflow-hidden "><main class="notion light-mode notion-page notion-block-24c0e2a161ca803ba564d017e99651ba"><div class="notion-viewport"></div><div class="notion-collection-page-properties"></div><blockquote class="notion-quote notion-block-24c0e2a161ca8015900bfc29909b625a"><div>2025年春季学期（大二下）</div><div class="notion-text notion-block-24c0e2a161ca80e4b822d5d477a02675">课程代码：22CS22006</div><div class="notion-text notion-block-24c0e2a161ca8010a5d7d3ee38cd328b">授课教师：翁睿</div><div class="notion-text notion-block-24c0e2a161ca80859911cd7dddc116f4">课程性质：必修（考试、408）</div><div class="notion-text notion-block-24c0e2a161ca80f08a8ed5d75f86b1a4">学分：3.0</div><div class="notion-text notion-block-24c0e2a161ca805da1a5e449c80932d5">成绩组成：期末70 + 平时30（实验15 + 小作业10 + 大作业5）</div><div class="notion-text notion-block-24c0e2a161ca80639902e045d7e2cbae">授课：40学时 + 实验：8学时</div></blockquote><div class="notion-text notion-block-24c0e2a161ca802b80a9c54d7f754902"><b><a target="_blank" rel="noopener noreferrer" class="notion-link" href="https://dalnyefz.github.io/computer-organization/ch0">§0 应试部分</a></b></div><div class="notion-text notion-block-24c0e2a161ca8065926ff149dfa91d76"><b><a target="_blank" rel="noopener noreferrer" class="notion-link" href="https://dalnyefz.github.io/computer-organization/ch1">§1 </a></b><a target="_blank" rel="noopener noreferrer" class="notion-link" href="https://dalnyefz.github.io/computer-organization/ch1">计算机系统概论</a></div></main></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[数据结构与算法]]></title>
